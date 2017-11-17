@@ -1,0 +1,17 @@
+<package format="2">
+    <name>yaml_cpp</name>
+    <version>0.5.3</version>
+    <description>
+        yaml_cpp
+    </description>
+    <author>contradict@gmail.com</author>
+    <maintainer email="abc@def.ghi">abc def</maintainer>
+    <url>http://wiki.ros.org/map_server</url>
+    <license>BSD</license>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
